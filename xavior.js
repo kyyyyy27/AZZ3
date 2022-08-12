@@ -1248,7 +1248,7 @@ break
                                 }, {
                                 urlButton: {
                                     displayText: 'Website Bot',
-                                    url: 'xnxx.com
+                                    url: 'xnxx.com'
                                 }
                                 }, {
                                 quickReplyButton: {
